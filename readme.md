@@ -1,0 +1,3 @@
+# PHP Blog
+
+Questo progetto è stato sviluppato come parte di un esercizio di code training. Si tratta di un sito blog interattivo implementato con PHP e utilizzando un database per la gestione dei dati. Il sito include un sistema di login e una funzionalità di gestione dei post. Gli utenti registrati possono accedere alla propria area personale per scrivere e pubblicare nuovi contenuti, mentre gli utenti non registrati possono comunque visualizzare tutti i post disponibili. Attualmente il progetto si concentra sull'implementazione delle funzionalità di base, con la possibilità di aggiungere il filtraggio dei post per categorie in futuro.
